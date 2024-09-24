@@ -17,7 +17,7 @@ Para instalar la herramienta en tu sistema y poder usarla desde cualquier direct
 Abre una terminal y navega al directorio donde están los archivos (ether_sweep.py y setup.py).
 Ejecuta el siguiente comando para instalar la herramienta:
 
-sudo python setup.py install
+sudo python3 setup.py install
 
 
 
