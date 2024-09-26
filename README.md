@@ -1,4 +1,4 @@
-##### *INSTRUCCIONES DE INSTALACIÓN* #####
+# *INSTRUCCIONES DE INSTALACIÓN* #
 
 
 ### Paso 1: Instalar Dependencias
