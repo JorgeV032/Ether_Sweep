@@ -7,7 +7,9 @@ Primero, asegúrate de tener instaladas las siguientes dependencias y herramient
 
 ```bash
 sudo apt install python3-colorama
+```
 
+```
 sudo apt install figlet
 ```
 
